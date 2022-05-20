@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>github</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e5d67c9-bbb3-426b-853b-1b8333a4d3c9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7750b3b5-ea45-4e3a-b420-a32bcfc1d9d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d8cb53b-be3c-4fa4-8945-632b3fcd9d34</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0edd5704-a277-4e89-9cc0-b40e72ebd792</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://github.com/login'</defaultValue>
+      <description></description>
+      <id>7750b3b5-ea45-4e3a-b420-a32bcfc1d9d3</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Totosarwoto17'</defaultValue>
+      <description></description>
+      <id>3d8cb53b-be3c-4fa4-8945-632b3fcd9d34</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'uGFQq9d7HlZYY1t5R4AMdg=='</defaultValue>
+      <description></description>
+      <id>0edd5704-a277-4e89-9cc0-b40e72ebd792</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

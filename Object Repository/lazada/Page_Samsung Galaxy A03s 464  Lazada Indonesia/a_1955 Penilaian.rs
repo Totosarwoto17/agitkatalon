@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_1955 Penilaian</name>
+   <tag></tag>
+   <elementGuidId>ec678175-fa89-4e30-88e9-1e81b716f202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module_product_review_star_1']/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.pdp-link.pdp-link_size_s.pdp-link_theme_blue.pdp-review-summary__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fb72cace-4eac-4522-be66-fed36600c328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link</value>
+      <webElementGuid>acf9ec81-af56-476d-a743-5620e93578f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.pdp_revamp.0.0</value>
+      <webElementGuid>b0b94fa8-05bc-40d9-bf94-c58a575931bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1955 Penilaian</value>
+      <webElementGuid>eacc51cf-f68e-4567-b27d-83884e380f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module_product_review_star_1&quot;)/div[@class=&quot;pdp-review-summary&quot;]/a[@class=&quot;pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link&quot;]</value>
+      <webElementGuid>ccf29a4f-66b2-4aa7-8fa9-881bd852c50d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module_product_review_star_1']/div/a</value>
+      <webElementGuid>54edae95-b0e1-4291-81d5-f368a162d857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'1955 Penilaian')]</value>
+      <webElementGuid>2b45b919-8bb4-4745-a207-fe7588a8d8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy A03s 4/64'])[2]/following::a[1]</value>
+      <webElementGuid>4fa34a3e-4cf2-42fe-9be1-eb1bf81c17f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy A03s 4/64'])[1]/following::a[1]</value>
+      <webElementGuid>48b143b3-0309-4972-b1c8-7d113a635062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merek:'])[1]/preceding::a[2]</value>
+      <webElementGuid>416839c4-1d30-4799-8ceb-0d10f39bdeff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[1]/preceding::a[2]</value>
+      <webElementGuid>23603d72-3b77-4b5e-93a4-27f314ba4228</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1955 Penilaian']/parent::*</value>
+      <webElementGuid>ee406105-c19e-4511-ba42-0c94496867ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/a</value>
+      <webElementGuid>49158a62-60b1-4a32-beab-034a39d94804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = '1955 Penilaian' or . = '1955 Penilaian')]</value>
+      <webElementGuid>5b274b0e-c488-4736-afc2-9b4846cfef93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

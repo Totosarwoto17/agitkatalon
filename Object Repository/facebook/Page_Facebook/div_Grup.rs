@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Grup</name>
+   <tag></tag>
+   <elementGuidId>01614c16-8080-42b2-b4e0-11ecf9b26b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount_0_0_Kr']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/ul/li[2]/div/a/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4db5a986-97c2-4c8c-832a-dcb4ea470841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>j83agx80 cbu4d94t ew0dbk1b irj2b8pg</value>
+      <webElementGuid>35f6b7ff-5bef-4f2c-ab7e-086544b4be65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grup</value>
+      <webElementGuid>025f1e13-a466-4e11-957a-5939cca72c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount_0_0_Kr&quot;)/div[1]/div[1]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;du4w35lb l9j0dhe7 cbu4d94t j83agx80&quot;]/div[@class=&quot;j83agx80 cbu4d94t l9j0dhe7 jgljxmt5 be9z9djy&quot;]/div[@class=&quot;j83agx80 cbu4d94t d6urw2fd dp1hu0rb l9j0dhe7 du4w35lb&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 pfnyh3mw taijpn5t gs1a9yip owycx6da btwxx1t3 dp1hu0rb p01isnhg&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 rj1gh0hx buofh1pr g5gj957u hpfvmrgz i1fnvgqd ll8tlv6m owycx6da btwxx1t3 ho3ac9xt dp1hu0rb msh19ytf&quot;]/div[@class=&quot;rq0escxv du4w35lb o387gat7 qbu88020 pad24vr5 rirtxc74 dp1hu0rb fer614ym ni8dbmo4 stjgntxs rek2kq2y lpgh02oy be9z9djy bx45vsiw&quot;]/div[@class=&quot;rq0escxv l9j0dhe7 du4w35lb j83agx80 cbu4d94t qowsmv63 dp1hu0rb&quot;]/div[@class=&quot;rpm2j7zs k7i0oixp gvuykj2m j83agx80 cbu4d94t ni8dbmo4 du4w35lb q5bimw55 ofs802cu pohlnb88 dkue75c7 mb9wzai9 d8ncny3e buofh1pr g5gj957u tgvbjcpo l56l04vs r57mb794 kh7kg01d eg9m0zos c3g1iek1 l9j0dhe7 k4xni2cv&quot;]/div[@class=&quot;j83agx80 cbu4d94t buofh1pr l9j0dhe7&quot;]/div[@class=&quot;l9j0dhe7 tr9rh885 buofh1pr cbu4d94t j83agx80&quot;]/div[@class=&quot;sn7ne77z buofh1pr cbu4d94t j83agx80&quot;]/div[@class=&quot;buofh1pr&quot;]/div[1]/ul[1]/li[2]/div[1]/a[@class=&quot;oajrlxb2 gs1a9yip g5ia77u1 mtkw9kbi tlpljxtp qensuy8j ppp5ayq2 goun2846 ccm00jje s44p3ltw mk2mc5f4 rt8b4zig n8ej3o3l agehan2d sk4xxmp2 rq0escxv nhd2j8a9 mg4g778l pfnyh3mw p7hjln8o kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x tgvbjcpo hpfvmrgz jb3vyjys rz4wbd8a qt6c0cv9 a8nywdso l9j0dhe7 i1ao9s8h esuyzwwr f1sip0of du4w35lb btwxx1t3 abiwlrkh p8dawk7l lzcic4wl ue3kfks5 pw54ja7n uo3d90p7 l82x9zwi a8c37x1j&quot;]/div[@class=&quot;ow4ym5g4 auili1gw rq0escxv j83agx80 buofh1pr g5gj957u i1fnvgqd oygrvhab cxmmr5t8 hcukyx3x kvgmc6g5 hpfvmrgz qt6c0cv9 jb3vyjys l9j0dhe7 du4w35lb bp9cbjyn btwxx1t3 dflh9lhu scb9dxdr nnctdnn4&quot;]/div[@class=&quot;ow4ym5g4 auili1gw rq0escxv j83agx80 buofh1pr g5gj957u i1fnvgqd oygrvhab cxmmr5t8 hcukyx3x kvgmc6g5 tgvbjcpo hpfvmrgz qt6c0cv9 rz4wbd8a a8nywdso jb3vyjys du4w35lb bp9cbjyn btwxx1t3 l9j0dhe7&quot;]/div[@class=&quot;gs1a9yip ow4ym5g4 auili1gw rq0escxv j83agx80 cbu4d94t buofh1pr g5gj957u i1fnvgqd oygrvhab cxmmr5t8 hcukyx3x kvgmc6g5 tgvbjcpo hpfvmrgz rz4wbd8a a8nywdso l9j0dhe7 du4w35lb rj1gh0hx pybr56ya f10w8fjw&quot;]/div[1]/div[@class=&quot;j83agx80 cbu4d94t ew0dbk1b irj2b8pg&quot;]</value>
+      <webElementGuid>a65105e1-ea59-4c8a-940d-fda739f688a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount_0_0_Kr']/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div/div/ul/li[2]/div/a/div/div[2]/div/div/div</value>
+      <webElementGuid>28bb69cf-4970-4b9a-891a-ba16eaa7b745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Teman'])[1]/following::div[8]</value>
+      <webElementGuid>cb606873-66df-4652-b225-749ac54f6f89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toto Arzta'])[1]/following::div[18]</value>
+      <webElementGuid>8cd3471c-907d-4517-b2fe-90390d73387b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Marketplace'])[1]/preceding::div[4]</value>
+      <webElementGuid>6c0830af-b6e2-4b87-a838-9fcabc4a3f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/a/div/div[2]/div/div/div</value>
+      <webElementGuid>3a5351ee-0792-45fe-9e72-9097817ca70c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Grup' or . = 'Grup')]</value>
+      <webElementGuid>1b9f453c-d077-4b9e-a459-d51f63c87ec9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Layanan LazMallCicilanBayar di TempatDi_d363d0</name>
+   <tag></tag>
+   <elementGuidId>cb484697-87d6-4903-9e4b-75a2328dea5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>77224000-a273-4ef8-a6f0-c0828a64871a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gJ98q</value>
+      <webElementGuid>ed4f7e26-9dda-4946-95f9-1fd605cb9ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.searchlistcategory.filter.i1.6e5efe87mCHJr9</value>
+      <webElementGuid>7a315a78-f0b4-47ad-a523-97fed7710b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan LazMallCicilanBayar di TempatDisediakan oleh LazadaGratis Ongkir </value>
+      <webElementGuid>0d122f99-265d-4b14-8e7d-e85be744868b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-4 ant-col-pull-20 _8URhT&quot;]/div[@class=&quot;SEBPs&quot;]/div[@class=&quot;gJ98q&quot;]</value>
+      <webElementGuid>968b6f57-9166-40ab-af4b-89c5ab58983f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>ebd11d67-906c-4052-b73b-19060cc213c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung'])[2]/following::div[1]</value>
+      <webElementGuid>a643ef65-b552-413c-bacb-8cb8bc4b76f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Merek'])[1]/following::div[4]</value>
+      <webElementGuid>5e0ebaef-1583-4981-92ea-647ecbc4a955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>524f48da-4973-4d53-a977-f3334209df59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Layanan LazMallCicilanBayar di TempatDisediakan oleh LazadaGratis Ongkir ' or . = 'Layanan LazMallCicilanBayar di TempatDisediakan oleh LazadaGratis Ongkir ')]</value>
+      <webElementGuid>4e48325d-810f-41a4-bcb1-eb8549d8283d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

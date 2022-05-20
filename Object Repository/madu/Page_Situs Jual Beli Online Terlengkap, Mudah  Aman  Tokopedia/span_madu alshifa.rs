@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_madu alshifa</name>
+   <tag></tag>
+   <elementGuidId>fbde38d8-ee9a-4124-8339-12edf283340f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-10tcjji</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search-container']/div/div/div/a/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eed70e99-58e2-436c-8e78-dfec90048d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-10tcjji</value>
+      <webElementGuid>60468f63-718b-4e07-beb1-f69055c9e907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>madu alshifa</value>
+      <webElementGuid>232bf213-6d41-4fe4-9ff8-340a86fef6c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-container&quot;)/div[@class=&quot;css-1o0ivj1 e1aezlny0&quot;]/div[1]/div[@class=&quot;css-xq97c2&quot;]/a[@class=&quot;css-1nbj9xs&quot;]/div[@class=&quot;css-14oqdsi&quot;]/div[@class=&quot;css-zg1vud&quot;]/span[@class=&quot;css-10tcjji&quot;]</value>
+      <webElementGuid>3b7db430-110e-440b-a34c-407271036acc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-container']/div/div/div/a/div/div/span</value>
+      <webElementGuid>ad2fd3e2-17d5-46c2-96e4-33f045205875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::span[1]</value>
+      <webElementGuid>38ea6203-179a-4a8d-9473-f83dfd59e0da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia Care'])[1]/following::span[1]</value>
+      <webElementGuid>c58eb6b7-86d9-4aef-807d-367e698a1694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='madu alshifa'])[2]/preceding::span[2]</value>
+      <webElementGuid>5a1cf397-b10c-46d2-97fa-e6e7300f3189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>fa811e66-28c9-4cd1-8918-f606f8966926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'madu alshifa' or . = 'madu alshifa')]</value>
+      <webElementGuid>c0867770-f897-4f39-9033-fd293038a142</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

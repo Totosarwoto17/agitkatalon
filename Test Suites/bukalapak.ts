@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>bukalapak</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>de69c1b0-3ec7-45f1-91e4-e89b66b5b23d</testSuiteGuid>
+   <testCaseLink>
+      <guid>323c0878-b7e7-4347-a558-b9fa834e984f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/bukalapak</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>503494c4-22a6-4000-bbf3-9f03b2a22752</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Test Data buka</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>503494c4-22a6-4000-bbf3-9f03b2a22752</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>faea5a8d-e050-41d2-bfd4-120978b69373</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>503494c4-22a6-4000-bbf3-9f03b2a22752</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nama</value>
+         <variableId>b361fcd8-2eef-4d75-a61a-83f8c9da5b93</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>503494c4-22a6-4000-bbf3-9f03b2a22752</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>42a05ca6-99dc-475b-90b0-5a3a4fed5fc1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

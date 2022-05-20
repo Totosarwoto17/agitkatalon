@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hapus semua_picture-wrapper</name>
+   <tag></tag>
+   <elementGuidId>29f741c5-30fa-41bc-bf20-a58089efe4e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div/div/div/div/div/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.picture-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3e65bf2-d447-40ae-a42c-f5b9d163bda5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>picture-wrapper</value>
+      <webElementGuid>51709cec-6963-416a-8143-a11ac0be2927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-spm-anchor-id</name>
+      <type>Main</type>
+      <value>a2o4j.searchlistcategory.list.i72.6e5efe87mCHJr9</value>
+      <webElementGuid>7dffb8ac-3aa6-4540-9e60-9755dc82f256</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;FWSEp&quot;]/div[@class=&quot;ant-row FrEdP&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-20 ant-col-push-4 Jv5R8&quot;]/div[@class=&quot;_17mcb&quot;]/div[@class=&quot;Bm3ON&quot;]/div[@class=&quot;Ms6aG MefHh&quot;]/div[@class=&quot;qmXQo&quot;]/div[@class=&quot;ICdUp&quot;]/div[@class=&quot;_95X4G&quot;]/a[1]/div[@class=&quot;picture-wrapper&quot;]</value>
+      <webElementGuid>c52a2068-0174-4825-9973-f90caeefdfac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[3]/div/div/div/div/div/a/div</value>
+      <webElementGuid>c4b049ea-50fc-45d6-8920-bef228dbdba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus semua'])[1]/following::div[7]</value>
+      <webElementGuid>50e15cf1-3075-406d-8e1a-75335be0362c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy A03s 4/64'])[1]/preceding::div[8]</value>
+      <webElementGuid>fe92b237-c5ea-4788-9979-eb30b1855990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp1.779.000'])[1]/preceding::div[9]</value>
+      <webElementGuid>03a87537-74ef-4617-bd1e-170bd4de35ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/a/div</value>
+      <webElementGuid>6fb1b35e-97f1-4a5c-84cc-f41003cdac35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
